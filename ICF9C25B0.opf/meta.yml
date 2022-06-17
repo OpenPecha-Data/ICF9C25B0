@@ -1,0 +1,71 @@
+id: ICF9C25B0
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T14:08:06.291465'
+last_modified: '2022-06-17T14:08:06.291530'
+parser: null
+source_metadata:
+  title: Seven-Line Prayer
+  language: en
+  description: 'Texts related to the popular Seven-Line Prayer to Guru Rinpoche (tshig
+    bdun gsol ''debs) first revealed in the thirteenth century by Guru Chökyi Wangchuk:'
+  volume:
+    f64E1:
+      title: 'Accomplishing the Lama through the Seven-Line Prayer: A Special Teaching
+        from the Lama Sangdü'
+      base_file: f64E1.txt
+      order: 1
+      parent: Root Text
+    f59EA:
+      title: Benedictory Verses for Shower of Blessings Guru Yoga
+      base_file: f59EA.txt
+      order: 2
+      parent: Benedictory Verses
+    fC04D:
+      title: Benedictory Verses for White Lotus
+      base_file: fC04D.txt
+      order: 3
+      parent: Benedictory Verses
+    f3997:
+      title: 'The Quintessence of the Profound Path: A Concise Guide to the Stages
+        of Visualization for the Guru Yoga of the Seven-Line Supplication, A Shower
+        of Blessings'
+      base_file: f3997.txt
+      order: 4
+      parent: Guru Yoga
+    f2514:
+      title: 'A Shower of Blessings: A Guru Yoga Practice to Accompany the Seven-Line
+        Prayer'
+      base_file: f2514.txt
+      order: 5
+      parent: Guru Yoga
+    fCE04:
+      title: 'A Shower of Blessings: A Guru Yoga Practice to Accompany the Seven Line
+        Prayer (Addendum)'
+      base_file: fCE04.txt
+      order: 6
+      parent: Guru Yoga
+    f318E:
+      title: Remainder Torma Offering for Seven-Line Prayer Guru Yoga
+      base_file: f318E.txt
+      order: 7
+      parent: Tsok
+    f3394:
+      title: 'Excellent Vase of Splendour: The Tsok Feast Offering to Accompany the
+        Vajra Seven-Line Prayer'
+      base_file: f3394.txt
+      order: 8
+      parent: Tsok
+    f04D4:
+      title: A Simple Visualization for the Seven-Line Prayer
+      base_file: f04D4.txt
+      order: 9
+      parent: Visualization
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
